@@ -4,7 +4,7 @@ Effortlessly discover the caloric content of your meals by simply scanning them 
 ## Tech Stack
 
 - SwiftUI
-- [Google AI SDK (Gemini)](https://github.com/google/generative-ai-swift| height=100)
+- [Google AI SDK (Gemini)](https://github.com/google/generative-ai-swift)
 
 
 
